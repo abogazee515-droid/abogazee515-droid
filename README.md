@@ -1,78 +1,143 @@
 # Hi, I'm Sulaiman 👋
 
-### C++ Developer in Progress • Information Technology Student • Problem Solver
+### Information Technology Student | C++ Developer in Progress | Problem Solver
 
-I'm an Information Technology student building a strong foundation in software development through hands-on projects, problem solving, and continuous learning.
+I'm an Information Technology student at **Universitas Muhammadiyah Yogyakarta (UMY)**, currently building my programming foundation through structured learning, hands-on projects, and continuous problem solving.
 
-My current focus is **C++**, with a particular interest in **Object-Oriented Programming, Data Structures, Algorithms, and Information Security**.
-
----
-
-## 🧠 What I'm Learning
-
-- 💻 C++
-- 🏗️ Object-Oriented Programming
-- 🧩 Data Structures
-- ⚡ Algorithms & Problem Solving
-- 🔗 Pointers, References & Memory Concepts
-- 📁 File & Stream I/O
-- 🔐 Information Security
+My current focus is **C++**, with a strong interest in **algorithms, data structures, Object-Oriented Programming, and Information Security**.
 
 ---
 
-## 🛠️ Technologies
+## 👨‍💻 About Me
 
+- 🎓 Bachelor of Information Technology student at **UMY**
+- 📚 Currently in **Semester 3**
+- 📊 GPA: **3.54**
+- 💻 Primary language: **C++**
+- 🧠 Focused on programming fundamentals, algorithms, and problem solving
+- 🔐 Interested in **Information Security**
+- 🌱 Currently progressing through **ProgrammingAdvices by Dr. Mohammed Abu-Hadhoud**
+- 📍 Currently working through **Course 06 — Introduction to Programming Using C++, Level 2**
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### Core Concepts
+- Programming Fundamentals
+- Problem Solving
+- Algorithms
+- Object-Oriented Programming
+- Functions
+- Arrays & Structures
+- Pointers & References
+- File / Stream I/O
+- Searching & Sorting
+- Debugging
+
+### Algorithms I've Practiced
+- Binary Search
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+
+### Tools
+- Visual Studio
+- Git
+- GitHub
+
 ---
 
-## 📚 Projects & Practice
+## 🗺️ ProgrammingAdvices Roadmap
 
-Most of my repositories are hands-on C++ projects created to understand programming concepts by implementing them from scratch.
+**Instructor:** Dr. Mohammed Abu-Hadhoud
 
-### Data Structures
-- [Binary Search Tree](https://github.com/abogazee515-droid/-BinarySearchTree_0206)
-- [Singly Linked List](https://github.com/abogazee515-droid/0206_singlelinkedlist)
-- [Stack Using Linked List](https://github.com/abogazee515-droid/stackUsingLinkedList_0206)
-- [Circular Queue Using Array](https://github.com/abogazee515-droid/CircularQueuesArray_0206)
+I'm following the ProgrammingAdvices roadmap progressively, focusing on understanding the concepts and applying them through practice and projects.
 
-### Algorithms
+| # | Course | Status |
+|---|---|---|
+| 01 | Programming Foundations — Level 1 | ✅ Completed |
+| 02 | Algorithms & Problem-Solving — Level 1 | ✅ Completed |
+| 03 | Introduction to Programming with C++ — Level 1 | ✅ Completed |
+| 04 | Algorithms & Problem-Solving — Level 1 (Clean Code) | ✅ Completed |
+| 05 | Algorithms & Problem-Solving — Level 2 | ✅ Completed |
+| **06** | **Introduction to Programming Using C++ — Level 2** | 🔄 **In Progress** |
+| 07 | Algorithms & Problem Solving — Level 3 | ⏳ Upcoming |
+| 08 | Algorithms & Problem Solving — Level 4 | ⏳ Upcoming |
+| 09 | Foundations — Level 2 | ⏳ Upcoming |
+| 10 | OOP as It Should Be — Concepts | ⏳ Upcoming |
+| 11 | OOP as It Should Be — Applications | ⏳ Upcoming |
+| 12 | Data Structures — Level 1 | ⏳ Upcoming |
+| 13 | Algorithms & Problem Solving — Level 5 | ⏳ Upcoming |
+| 14 | C# — Level 1 | ⏳ Upcoming |
+| 15 | Database — Level 1 (SQL) | ⏳ Upcoming |
+| 16 | OOP as It Should Be in C# | ⏳ Upcoming |
+| 17 | Database — SQL Projects & Practice | ⏳ Upcoming |
+| 18 | C# & Database Connectivity (ADO.NET) | ⏳ Upcoming |
+
+> **Current position:** Courses **1–5 completed** → **Course 6 in progress** → Courses **7–18 coming next**.
+
+---
+
+## 📂 Projects
+
+My repositories document my progression through programming fundamentals, problem solving, algorithms, and C++ practice.
+
+### Programming Fundamentals
+
+- [BMI Conditional Program](https://github.com/abogazee515-droid/40206_Conditional_BMI_Program)
+- [Control & Conditional Program](https://github.com/abogazee515-droid/40206_ControlProgram)
+- [Functions Practice](https://github.com/abogazee515-droid/ActFunction_4206)
+- [Arrays & Structures](https://github.com/abogazee515-droid/ArrayStruct_0206)
+- [Looping Practice](https://github.com/abogazee515-droid/Looping_0206)
+
+### Algorithms & Problem Solving
+
 - [Binary Search](https://github.com/abogazee515-droid/BinarySearch_0206)
 - [Bubble Sort](https://github.com/abogazee515-droid/206_BubbleSort)
 - [Insertion Sort](https://github.com/abogazee515-droid/InsertionSort_0206)
 - [Merge Sort](https://github.com/abogazee515-droid/merge-sort_0206)
 
-### Object-Oriented Programming
-- [OOP Fundamentals](https://github.com/abogazee515-droid/ParadigmaOOP_0206)
-- [Advanced OOP Practice](https://github.com/abogazee515-droid/-ParadigmaOOP2_0206)
-- [Inheritance & Relationships](https://github.com/abogazee515-droid/-RelasidanInheritance_0206)
-- [Static Member Functions](https://github.com/abogazee515-droid/StaticMemberFunction_0206)
+These projects represent my early progression from programming fundamentals and logical problem solving toward more structured algorithms and project-based development.
 
 ---
 
 ## 🎯 Current Goals
 
-- Strengthen my C++ fundamentals
-- Master Data Structures & Algorithms
-- Become better at solving programming problems
-- Build larger and more practical projects
-- Develop a solid foundation in Information Security
+- Strengthen my C++ programming skills
+- Improve algorithmic thinking and problem solving
+- Build a deeper understanding of memory and debugging
+- Continue through the ProgrammingAdvices roadmap
+- Develop stronger Data Structures & Algorithms foundations
+- Gradually move toward Information Security
 
 ---
 
-## 📈 Learning Philosophy
+## 📖 Learning Philosophy
 
 > **Don't just learn how to write code. Learn why it works.**
 
-I learn by understanding the concept, implementing it, testing it, finding mistakes, and improving the solution.
+I believe real progress comes from understanding the concept, implementing it myself, making mistakes, debugging, and improving the solution.
 
 ---
 
-## 🤝 Connect
+## 🌐 Languages
 
-Feel free to explore my repositories and follow my progress as I continue learning and building.
+- 🇸🇦 Arabic — Native
+- 🇬🇧 English — Working Proficiency
 
-[![GitHub](https://img.shields.io/badge/GitHub-abogazee515--droid-181717?style=for-the-badge&logo=github)](https://github.com/abogazee515-droid)
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sulaiman%20Al--Hakami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-alhkami-5033b043b/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-abogazee515--droid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abogazee515-droid)
+
+📧 **sulaimansby19@gmail.com**
 
 ---
 
