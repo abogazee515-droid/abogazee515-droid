@@ -2,9 +2,9 @@
 
 ### Information Technology Student | C++ Developer in Progress | Problem Solver
 
-I'm an Information Technology student at **Universitas Muhammadiyah Yogyakarta (UMY)**, currently building my programming foundation through structured learning, hands-on projects, and continuous problem solving.
+I'm an Information Technology student at **Universitas Muhammadiyah Yogyakarta (UMY)**, building my programming foundation through structured learning, hands-on projects, and continuous problem solving.
 
-My current focus is **C++**, with a strong interest in **algorithms, data structures, Object-Oriented Programming, and Information Security**.
+My current focus is **C++**, with particular interest in **algorithms, data structures, Object-Oriented Programming, and Information Security**.
 
 ---
 
@@ -16,8 +16,8 @@ My current focus is **C++**, with a strong interest in **algorithms, data struct
 - 💻 Primary language: **C++**
 - 🧠 Focused on programming fundamentals, algorithms, and problem solving
 - 🔐 Interested in **Information Security**
-- 🌱 Currently progressing through **ProgrammingAdvices by Dr. Mohammed Abu-Hadhoud**
-- 📍 Currently working through **Course 06 — Introduction to Programming Using C++, Level 2**
+- 🌱 Learning through **ProgrammingAdvices by Dr. Mohammed Abu-Hadhoud**
+- 🔄 Currently studying **Course 06 — Introduction to Programming Using C++, Level 2**
 
 ---
 
@@ -38,7 +38,7 @@ My current focus is **C++**, with a strong interest in **algorithms, data struct
 - Searching & Sorting
 - Debugging
 
-### Algorithms I've Practiced
+### Algorithms Practiced
 - Binary Search
 - Bubble Sort
 - Insertion Sort
@@ -55,7 +55,7 @@ My current focus is **C++**, with a strong interest in **algorithms, data struct
 
 **Instructor:** Dr. Mohammed Abu-Hadhoud
 
-I'm following the ProgrammingAdvices roadmap progressively, focusing on understanding the concepts and applying them through practice and projects.
+I am progressing through the ProgrammingAdvices roadmap step by step, combining course concepts with practical C++ projects.
 
 | # | Course | Status |
 |---|---|---|
@@ -78,13 +78,13 @@ I'm following the ProgrammingAdvices roadmap progressively, focusing on understa
 | 17 | Database — SQL Projects & Practice | ⏳ Upcoming |
 | 18 | C# & Database Connectivity (ADO.NET) | ⏳ Upcoming |
 
-> **Current position:** Courses **1–5 completed** → **Course 6 in progress** → Courses **7–18 coming next**.
+> **Current position:** Courses **1–5 completed** → **Course 6 in progress** → Courses **7–18 upcoming**.
 
 ---
 
 ## 📂 Projects
 
-My repositories document my progression through programming fundamentals, problem solving, algorithms, and C++ practice.
+My repositories document my progression from programming fundamentals and problem solving to algorithms and complete C++ console projects.
 
 ### Programming Fundamentals
 
@@ -101,7 +101,17 @@ My repositories document my progression through programming fundamentals, proble
 - [Insertion Sort](https://github.com/abogazee515-droid/InsertionSort_0206)
 - [Merge Sort](https://github.com/abogazee515-droid/merge-sort_0206)
 
-These projects represent my early progression from programming fundamentals and logical problem solving toward more structured algorithms and project-based development.
+### Course 05 — Complete Projects
+
+#### 🎮 Rock-Paper-Scissors Game
+A 3-round console game against the computer, using random number generation, enums, functions, input validation, score tracking, and replay logic.
+
+➡️ [View Rock-Paper-Scissors Game](https://github.com/abogazee515-droid/Rock-Paper-Scissors-Game)
+
+#### 🧮 Math Quiz Game
+A console quiz that generates arithmetic questions, checks answers, tracks right and wrong responses, and determines the final pass/fail result.
+
+➡️ [View Math Quiz Game](https://github.com/abogazee515-droid/Math-Quiz-Game)
 
 ---
 
@@ -111,7 +121,7 @@ These projects represent my early progression from programming fundamentals and 
 - Improve algorithmic thinking and problem solving
 - Build a deeper understanding of memory and debugging
 - Continue through the ProgrammingAdvices roadmap
-- Develop stronger Data Structures & Algorithms foundations
+- Strengthen my Data Structures & Algorithms foundation
 - Gradually move toward Information Security
 
 ---
@@ -120,7 +130,7 @@ These projects represent my early progression from programming fundamentals and 
 
 > **Don't just learn how to write code. Learn why it works.**
 
-I believe real progress comes from understanding the concept, implementing it myself, making mistakes, debugging, and improving the solution.
+I believe progress comes from understanding the concept, implementing it myself, making mistakes, debugging, and improving the solution.
 
 ---
 
